@@ -21,7 +21,7 @@ Task: In your opinion, even without knowing anything about the Blockchain or cod
 Answer: "Well it shows the advantages of Cadance compared with other smart contract languages. The design of these pillars are results of mistakes of other chains and should make it better. And this is usually a good thing. Robust and easy to learn is also a big plus in terms of application and attracting developers to the chain. Like me a former java developer ;)"
 
 
-
+Chapter 2 - Day 1 - Our First Smart Contract
 
 Task:
 Answer:
