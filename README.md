@@ -23,8 +23,9 @@ Answer: "Well it shows the advantages of Cadance compared with other smart contr
 
 Chapter 2 - Day 1 - Our First Smart Contract
 
-Task:
 Answer:
+![grafik](https://user-images.githubusercontent.com/113556003/192167397-6a1befff-c049-4912-b9d2-72015fad51db.png)
+
 
 Task:
 Answer:
