@@ -26,6 +26,7 @@ Chapter 2 - Day 1 - Our First Smart Contract
 Answer:
 ![grafik](https://user-images.githubusercontent.com/113556003/192167397-6a1befff-c049-4912-b9d2-72015fad51db.png)
 
+Chapter 2 Day 2 - Transactions and Scripts
 
 Task:
 Answer:
